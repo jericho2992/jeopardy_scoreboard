@@ -59,7 +59,7 @@
 			<button name="400" on:click={setPlayPoints}>400</button>
 			<button name="600" on:click={setPlayPoints}>600</button>
 			<button name="800" on:click={setPlayPoints}>800</button>
-			<button name="1000" on:click={setPlayPoints}>0100</button>
+			<button name="1000" on:click={setPlayPoints}>1000</button>
 		</div>
 		<div class="manual-entry">
 			<form>
